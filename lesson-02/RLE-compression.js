@@ -2,34 +2,34 @@
 
 /**
  * Реализовать RLE-сжатие: AAAB -> A3B, BCCDDDAXXXX -> BC2D3AX4
- * @param  {string} inputString
- * @return {string} outputString
+ * @param  {string} inputStr
+ * @return {string} outputStr
  */
-function rle(inputString) {
-    const inputStrLength = inputString.length;
+function rle(inputStr) {
+    const inputStrLength = inputStr.length;
 
     if(!inputStrLength) {
         return;
     } else if (inputStrLength === 1) {
-        return inputString;
+        return inputStr;
     }
 
-    let accum = 1;
-    let accumLetter = inputString[0];
-    let outputString = '';
+    let accumCount = 1;
+    let accumLetter = inputStr[0];
+    let outputStr = '';
     let i = 1;
 
-    for(i; i <= inputString.length; i++) {
-        if(inputString[i] === accumLetter) {
-            accum += 1;
+    for(i; i <= inputStr.length; i++) {
+        if(inputStr[i] === accumLetter) {
+            accumCount += 1;
         } else {
-            outputString += (accum === 1) ? accumLetter : accumLetter + accum;
-            accumLetter = inputString[i];
-            accum = 1;
+            outputStr += (accumCount === 1) ? accumLetter : accumLetter + accumCount;
+            accumLetter = inputStr[i];
+            accumCount = 1;
         }
     }
 
-    return outputString;
+    return outputStr;
 }
 
 
