@@ -19,7 +19,7 @@ function rle(inputStr) {
     let outputStr = '';
     let i = 1;
 
-    for(i; i <= inputStr.length; i++) {
+    for(; i <= inputStrLength; i++) {
         if(inputStr[i] === accumLetter) {
             accumCount += 1;
         } else {
