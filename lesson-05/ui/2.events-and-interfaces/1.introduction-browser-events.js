@@ -12,3 +12,8 @@
 
 //5. Спрятать сообщение
 // http://plnkr.co/edit/4ViFmqdy8tPHjtvDIdge?p=preview
+
+
+
+// Карусель
+// http://plnkr.co/edit/E5iI1uAgl5ECWHvXUSrQ?p=preview
