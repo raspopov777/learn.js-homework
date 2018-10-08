@@ -33,8 +33,35 @@ module.exports = {
             },
             {
                 title: 'lesson - 6',
-                collapsable: false
-            }
+                collapsable: false,
+                children: [
+                    'homework/lesson-06.md',
+                    'javascript/js/5.functions-closures/1.global-object.md',
+                    'javascript/js/5.functions-closures/2.closures.md',
+                    'javascript/js/5.functions-closures/4.closures-usage.md',
+                ]
+            },
+            {
+                title: 'lesson - 7',
+                collapsable: false,
+                children: [
+                    'homework/lesson-07.md',
+                ]
+            },
+            {
+                title: 'lesson - 8',
+                collapsable: false,
+                children: [
+                    'homework/lesson-08.md',
+                ]
+            },
+            {
+                title: 'lesson - 9',
+                collapsable: false,
+                children: [
+                    'homework/lesson-09.md',
+                ]
+            },
         ]
     }
 };
