@@ -1,13 +1,13 @@
-Дорешиваем https://learn.javascript.ru/decorators
-Для знакомства с ООП (если не знакомы) https://learn.javascript.ru/oop главы 1 и 2
+# Дз
 
-Повторяем https://learn.javascript.ru/prototype
+### Изучить
 
-Читаем https://learn.javascript.ru/settimeout-setinterval
+- [ ] Повторить [Прототип объекта](https://learn.javascript.ru/prototype)
+- [ ] [setTimeout и setInterval](https://learn.javascript.ru/settimeout-setinterval)
+- [ ] Для знакомства с ООП (если не знакомы) [ООП](https://learn.javascript.ru/oop) (главы 1 и 2)
 
-Сложные задачи 
-https://learn.javascript.ru/task/debounce
-http://plnkr.co/edit/MFlku72SYjsLHfvswNjS?p=preview
 
-https://learn.javascript.ru/task/throttle 
-http://plnkr.co/edit/ef4p53QFuytf61IDf1Us?p=preview
+### Решить
+
+- [ ] [Вызов не чаще чем в N миллисекунд](https://learn.javascript.ru/task/debounce) за основу можно взять http://plnkr.co/edit/MFlku72SYjsLHfvswNjS?p=preview 
+- [ ] [Тормозилка](https://learn.javascript.ru/task/throttle) за основу можно взять http://plnkr.co/edit/ef4p53QFuytf61IDf1Us?p=preview

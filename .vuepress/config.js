@@ -62,6 +62,20 @@ module.exports = {
                     'homework/lesson-09.md',
                 ]
             },
+            {
+                title: 'lesson - 10',
+                collapsable: false,
+                children: [
+                    'homework/lesson-10.md',
+                ]
+            },
+            {
+                title: 'lesson - 11',
+                collapsable: false,
+                children: [
+                    'homework/lesson-11.md',
+                ]
+            },
         ]
     }
 };
