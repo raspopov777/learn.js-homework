@@ -7,13 +7,6 @@
 - [ ] Почитать про [git](https://git-scm.com/book/ru/v2)
 - [ ] Основы из [скринкаста](https://learn.javascript.ru/screencast/git)
 
-### Решить
-
-- [ ] [Часики](https://learn.javascript.ru/task/clock)
-- [ ] [Слайдер-компонент](https://learn.javascript.ru/task/slider-widget)  
-- [ ] [Голосовалка](https://learn.javascript.ru/task/voter)  
-- [ ] [Компонент: список с выделением](https://learn.javascript.ru/task/selectable-list-component)  
-
 ### По желанию посмотреть
 
 https://github.com/mgrinko/phone-catalogue-static

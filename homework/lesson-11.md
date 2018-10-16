@@ -19,8 +19,5 @@
 ### Изучить
 
 - [ ] [ajax](https://learn.javascript.ru/ajax) главы 1 - 5 
-
-### Дополнительно
-
-- [ ] [nodejs](https://learn.javascript.ru/screencast/nodejs) видео 1 - 7
+- [ ] Дополнительно [nodejs](https://learn.javascript.ru/screencast/nodejs) видео 1 - 7
 
