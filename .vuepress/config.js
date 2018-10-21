@@ -21,7 +21,6 @@ module.exports = {
             },
             {
                 title: 'lesson - 5',
-                collapsable: false,
                 children: [
                     'homework/lesson-05.md',
                     'javascript/ui/2.events-and-interfaces/1.introduction-browser-events.md',
@@ -33,7 +32,6 @@ module.exports = {
             },
             {
                 title: 'lesson - 6',
-                collapsable: false,
                 children: [
                     'homework/lesson-06.md',
                     'javascript/js/5.functions-closures/1.global-object.md',
@@ -46,6 +44,11 @@ module.exports = {
                 collapsable: false,
                 children: [
                     'homework/lesson-07.md',
+                    'javascript/js/6.objects-more/1.object-methods.md',
+                    'javascript/js/6.objects-more/2.object-conversion.md',
+                    'javascript/js/6.objects-more/6.call-apply.md',
+                    'javascript/js/6.objects-more/7.bind.md',
+                    'javascript/js/6.objects-more/8.decorators.md',
                 ]
             },
             {

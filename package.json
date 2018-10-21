@@ -2,5 +2,6 @@
   "scripts": {
     "dev": "vuepress dev",
     "prod": "vuepress build"
-  }
+  },
+  "dependencies": {}
 }
