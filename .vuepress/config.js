@@ -41,7 +41,6 @@ module.exports = {
             },
             {
                 title: 'lesson - 7',
-                collapsable: false,
                 children: [
                     'homework/lesson-07.md',
                     'javascript/js/6.objects-more/1.object-methods.md',
@@ -77,6 +76,13 @@ module.exports = {
                 collapsable: false,
                 children: [
                     'homework/lesson-11.md',
+                ]
+            },
+            {
+                title: 'lesson - 13',
+                collapsable: false,
+                children: [
+                    'homework/lesson-12.md',
                 ]
             },
         ]
