@@ -2,7 +2,7 @@ https://learn.javascript.ru/array               ✓
 https://learn.javascript.ru/array-methods       ✓
 https://learn.javascript.ru/array-iteration     ✓
 https://learn.javascript.ru/datetime 
-https://learn.javascript.ru/prototype
+https://learn.javascript.ru/prototype           ✓
 
 Дополнительно 
 deepEqual: http://plnkr.co/edit/dGUVyp9F7K4D5TnCG0N1?p=catalogue

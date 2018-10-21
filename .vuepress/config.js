@@ -52,9 +52,11 @@ module.exports = {
             },
             {
                 title: 'lesson - 8',
-                collapsable: false,
                 children: [
                     'homework/lesson-08.md',
+                    'javascript/js/9.prototypes/1.prototype.md',
+                    'javascript/js/7.js-misc/3.settimeout-setinterval.md',
+                    'javascript/js/8.oop/2.internal-external-interface.md',
                 ]
             },
             {
