@@ -5,7 +5,7 @@ module.exports = {
         sidebar: [
             {
                 title: 'lesson - 1',
-                collapsable: false
+                collapsable: false,
             },
             {
                 title: 'lesson - 2',
@@ -13,11 +13,27 @@ module.exports = {
             },
             {
                 title: 'lesson - 3',
-                collapsable: false
+                children: [
+                    'homework/lesson-03.md',
+                    'javascript/js/4.data-structures/7.array.md',
+                    'javascript/js/4.data-structures/8.array-methods.md',
+                    'javascript/js/4.data-structures/9.array-iteration.md',
+                    'javascript/js/4.data-structures/11.datetime.md',
+                    'javascript/js/9.prototypes/1.prototype.md',
+                ]
             },
             {
                 title: 'lesson - 4',
-                collapsable: false
+                children: [
+                    'homework/lesson-04.md',
+                    'javascript/ui/1.document/2.dom-nodes.md',
+                    'javascript/ui/1.document/4.traversing-dom.md',
+                    'javascript/ui/1.document/5.searching-elements-dom.md',
+                    'javascript/ui/1.document/6.searching-elements-internals.md',
+                    'javascript/ui/1.document/7.basic-dom-node-properties.md',
+                    'javascript/ui/1.document/9.attributes-and-custom-properties.md',
+                    'javascript/ui/1.document/11.modifying-document.md',
+                ]
             },
             {
                 title: 'lesson - 5',
