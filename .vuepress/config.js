@@ -80,6 +80,18 @@ module.exports = {
                 collapsable: false,
                 children: [
                     'homework/lesson-09.md',
+                    'javascript/js/6.objects-more/3.constructor-new.md',
+                    'javascript/js/6.objects-more/5.static-properties-and-methods.md',
+                    'javascript/js/9.prototypes/1.prototype.md',
+                    'javascript/js/9.prototypes/2.new-prototype.md',
+                    'javascript/js/9.prototypes/3.native-prototypes.md',
+                    'javascript/js/9.prototypes/4.classes.md',
+                    'javascript/js/9.prototypes/5.class-inheritance.md',
+                    'javascript/js/9.prototypes/6.instanceof.md',
+                    'javascript/ui/5.widgets/2.widgets-structure.md',
+                    'javascript/ui/5.widgets/3.widgets-markup.md',
+                    'javascript/ui/5.widgets/4.template-lodash.md',
+                    'javascript/ui/5.widgets/5.custom-events.md',
                 ]
             },
             {
@@ -97,10 +109,17 @@ module.exports = {
                 ]
             },
             {
-                title: 'lesson - 13',
+                title: 'lesson - 12',
                 collapsable: false,
                 children: [
                     'homework/lesson-12.md',
+                ]
+            },
+            {
+                title: 'lesson - 13',
+                collapsable: false,
+                children: [
+                    'homework/lesson-13.md',
                 ]
             },
         ]
