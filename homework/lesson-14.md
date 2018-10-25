@@ -1,3 +1,6 @@
+показывать делати после выбора телефона и подтверждения правой клавишей
+http://plnkr.co/edit/02HNzZWkfUFsuuubh1LQ?p=catalogue
+
 Перечитываем промисы
 https://learn.javascript.ru/promise#tsepochki-promisov
 
