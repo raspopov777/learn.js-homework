@@ -6,10 +6,27 @@ module.exports = {
             {
                 title: 'lesson - 1',
                 collapsable: false,
+                children: [
+                    'homework/lesson-01.md',
+                    'javascript/js/2.first-steps/1.hello-world.md',
+                    'javascript/js/2.first-steps/2.external-script.md',
+                    'javascript/js/2.first-steps/8.operators.md',
+                    'javascript/js/2.first-steps/12.ifelse.md',
+                    'javascript/js/2.first-steps/13.logical-ops.md',
+                    'javascript/js/2.first-steps/14.types-conversion.md',
+                    'javascript/js/2.first-steps/15.while-for.md',
+                    'javascript/js/2.first-steps/16.switch.md',
+                    'javascript/js/2.first-steps/20.named-function-expression.md',
+                    'javascript/js/3.writing-js/4.testing.md',
+                ]
             },
             {
                 title: 'lesson - 2',
-                collapsable: false
+                collapsable: false,
+                children: [
+                    'homework/lesson-02.md',
+                    'javascript/js/4.data-structures/5.object-for-in.md',
+                ]
             },
             {
                 title: 'lesson - 3',
@@ -77,7 +94,6 @@ module.exports = {
             },
             {
                 title: 'lesson - 9',
-                collapsable: false,
                 children: [
                     'homework/lesson-09.md',
                     'javascript/js/6.objects-more/3.constructor-new.md',
@@ -120,6 +136,13 @@ module.exports = {
                 collapsable: false,
                 children: [
                     'homework/lesson-13.md',
+                ]
+            },
+            {
+                title: 'lesson - 14',
+                collapsable: false,
+                children: [
+                    'homework/lesson-14.md',
                 ]
             },
         ]
