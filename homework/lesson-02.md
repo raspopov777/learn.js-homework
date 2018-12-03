@@ -2,8 +2,8 @@
 
 ### Изучить
 
-- [ ] [Структуры данных](https://learn.javascript.ru/data-structures)  (главы 4-6)
-- [ ] [Строки](https://learn.javascript.ru/es-string)
+- [x] [Структуры данных](https://learn.javascript.ru/data-structures)  (главы 4-6)
+- [x] [Строки](https://learn.javascript.ru/es-string)
 
 
 ### Решить

@@ -22,7 +22,6 @@ module.exports = {
             },
             {
                 title: 'lesson - 2',
-                collapsable: false,
                 children: [
                     'homework/lesson-02.md',
                     'javascript/js/4.data-structures/5.object-for-in.md',
