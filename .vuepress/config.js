@@ -5,9 +5,9 @@ module.exports = {
         sidebar: [
             {
                 title: 'lesson - 1',
-                collapsable: false,
                 children: [
                     'homework/lesson-01.md',
+                    'javascript/js/3.writing-js/4.testing.md',
                     'javascript/js/2.first-steps/1.hello-world.md',
                     'javascript/js/2.first-steps/2.external-script.md',
                     'javascript/js/2.first-steps/8.operators.md',
@@ -17,7 +17,6 @@ module.exports = {
                     'javascript/js/2.first-steps/15.while-for.md',
                     'javascript/js/2.first-steps/16.switch.md',
                     'javascript/js/2.first-steps/20.named-function-expression.md',
-                    'javascript/js/3.writing-js/4.testing.md',
                 ]
             },
             {
