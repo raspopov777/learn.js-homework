@@ -2,7 +2,7 @@
 
 ### Изучить
 
-- [ ] [Промисы](https://learn.javascript.ru/promise)
+- [x] [Промисы](https://learn.javascript.ru/promise)
 
 ### По проекту
 
